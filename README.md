@@ -37,6 +37,7 @@ var myclassextended = Classly.extends("MyClassName", {
 ```
 
 Static classes
+======
 
 To define them:
 ```
